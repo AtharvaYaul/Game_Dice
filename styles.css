@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+h1{
+  font-family: 'Fasthand', cursive;
+ font-size: 100px;
+}
+.dice{
+  display:flex;
+  margin-left: 100px;
+  justify-content: center;
+
+}
+.dice1{
+  margin-right: 100px;
+}
+.dice2{
+  margin-right:100px;
+}
+p{
+  font-family: cursive;
+  align-items: center;
+  font-size: 40px;
+}
+.Footer{
+  margin-top: 140px;
+  font-size:30px;
+}
+.container h1{
+  margin-left:524px;
+}
+body{
+  background-color: #303331;
+  color:#2cbf8e;
+}
+.dice1 img{
+  margin-top: 30px;
+}
+.dice2 img{
+  margin-top: 30px;
+}
+.dice1 p{
+  margin-left:40px;
+}
+.dice2 p{
+  margin-left:40px;
+}
+.logo{
+  border-radius: 50%;
+  height: 26px;
+}
